@@ -22,7 +22,7 @@
     transition: all 0.5s;
 }
 ```
-[생활코딩][coding]
+Link: [생활코딩][coding]
 [coding]:https://opentutorials.org/course/1 "생활코딩 사이트로 이동"
 
 
